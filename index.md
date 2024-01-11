@@ -29,4 +29,5 @@ launch capabilities of a rocket with the versatility of remotely controlled flig
 For more information, please download the full report here: [Senior Design: Rocket Launched Aircraft Surveying Platform](/assets/docs/Senior%20design%20report.pdf)
 
 ![Project 2.1 Image](/assets/images/project_2_image_1.PNG)
+
 ![Project 2.1 Image](/assets/images/project_2_image_2.PNG)
