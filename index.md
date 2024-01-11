@@ -20,5 +20,5 @@ and provided valuable insights.
 
 For more information, please download the full report here: [Aircraft Fuseloge Structural Optimization using Structural Analysis and Abaqus](/assets/docs/AE4630_AbaqusProject.pdf)
 
-![Project 1 Image](/assets/images/project_1_image.jpg)
+![Project 1 Image](/assets/images/project_1_image.PNG)
 
