@@ -29,7 +29,8 @@ Long range aerial surveillance has become increasingly important in the past few
 For more information, please download the full report here: [Senior Design: Rocket Launched Aircraft Surveying Platform](/assets/docs/Senior%20design%20report.pdf)
 
 ### Aircraft Design
-
+![Project 2.1 Image](/assets/images/project_2_image_1.PNG)  
+*Figure 1: Concept design of the aircraft.*
 
 ### Finished Rocket
 ![Project 2.2 Image](/assets/images/project_2_image_2.PNG)  
