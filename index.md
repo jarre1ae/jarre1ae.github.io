@@ -2,122 +2,23 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Academic Portfolio
+Welcome to my academic portfolio! Here, you'll find a collection of projects I've worked on throughout my academic career. Each project is presented with a brief abstract, some illustrative images, and a link to download more detailed information or the project itself. These projects are ordered in no particular order. If you have questions regarding them, please reach out to me through my email.
 
-[Link to another page](./another-page.html).
+## Project 1: Aircraft Fuseloge Structural Optimization using Structural Analysis and Abaqus
+In this study, Abaqus was used to create a model of a fuselage and analyze its behavior under 
+various conditions. The problem being addressed was the need to optimize the fuselage for weight 
+while ensuring that it meets requirements for deflection and stress. Abaqus was chosen for its range 
+of features and capabilities for modeling and simulating complex structures. The modeling process 
+included creating the geometry, defining material properties, and specifying external loads and 
+constraints. The model was optimized for weight and the 3 lowest natural frequencies were found. 
+The emergency impact scenario was simulated, and the FEA equations were solved using solvers 
+in Abaqus. Assumptions and simplifications were made, and challenges and difficulties were 
+addressed. The results showed improvements to the model and provided data on natural 
+frequencies and behavior under the emergency impact scenario. The use of Abaqus was successful 
+and provided valuable insights.
 
-There should be whitespace between paragraphs.
+For more information, please download the full report here: [Aircraft Fuseloge Structural Optimization using Structural Analysis and Abaqus](/assets/docs/AE4630_AbaqusProject.pdf)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+![Project 1 Image](/assets/images/project_1_image.jpg)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
