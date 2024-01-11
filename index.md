@@ -18,7 +18,7 @@ addressed. The results showed improvements to the model and provided data on nat
 frequencies and behavior under the emergency impact scenario. The use of Abaqus was successful 
 and provided valuable insights.
 
-For more information, please [download Project 1](/assets/docs/AE4630_AbaqusProject.pdf)
+For more information, please download the full report here: [Aircraft Fuseloge Structural Optimization using Structural Analysis and Abaqus](/assets/docs/AE4630_AbaqusProject.pdf)
 
 ![Project 1 Image](/assets/images/project_1_image.jpg)
 
