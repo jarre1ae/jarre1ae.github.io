@@ -28,7 +28,7 @@ twitter_username:
 github_username:  jarer1ae
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: slate
 plugins:
   - jekyll-feed
 # Exclude from processing.
