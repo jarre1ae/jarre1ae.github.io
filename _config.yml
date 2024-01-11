@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alex Jarrett's Engineering Portfolio
+title: Alexander Jarrett's Engineering Portfolio
 email: alexander.jarrett@wmich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a repository of different projects I have completed throughout my academic career.
