@@ -12,6 +12,7 @@ addressed. The results showed improvements to the model and provided data on nat
 frequencies and behavior under the emergency impact scenario. The use of Abaqus was successful 
 and provided valuable insights.
 
+## Figures
 ![Project 1 Image](/assets/images/project_1_image.PNG)
 
 *Figure: Abaqus Simulation*
