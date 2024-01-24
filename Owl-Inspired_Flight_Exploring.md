@@ -13,3 +13,5 @@ Unsteady aerodynamics is vital in understanding airfoils under varying condition
 ![Sinusoidal Pitching Motion Study](/assets/images/Sinusoidal_Pitching_Motion_Study.PNG)  
 *Figure 3: Sinusoidal Pitching Motion Study*
 
+## Download Full Report
+For a comprehensive understanding of the project, including detailed technical specifications and design rationale, download the full report: [Owl-Inspired Flight: Exploring the Aerodynamic Efficiency of Stationary and Sinusoidally Pitching Airfoil Designs](/assets/docs/Alexander Jarrett AE5200 Midterm.pdf)
