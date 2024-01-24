@@ -12,6 +12,7 @@ frequencies and behavior under the emergency impact scenario. The use of Abaqus 
 and provided valuable insights.
 
 ![Project 1 Image](/assets/images/project_1_image.PNG)
+
 *Figure: Abaqus Simulation*
 
 ### Download Full Report
