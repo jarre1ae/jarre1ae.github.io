@@ -41,6 +41,7 @@ This project, conducted by Alexander Jarrett and fellow project members at Weste
 
 ![Project 3.1 Image](/assets/images/Duck_C_Design_Side.PNG)  
 *Figure: Side view of the aircraft.*
+
 ![Project 3.2 Image](/assets/images/Duck_C_Design_Top.PNG)  
 *Figure: Top view of the aircraft.*
 
