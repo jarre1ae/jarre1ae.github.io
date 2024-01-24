@@ -2,3 +2,31 @@
 ---
 
 @import "jekyll-theme-slate";
+
+/* Custom styles below */
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.project {
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+    display: block;
+    width: 300px;
+}
+
+.project img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.project-title {
+    padding: 10px;
+    text-align: center;
+    background-color: #f8f8f8;
+}
