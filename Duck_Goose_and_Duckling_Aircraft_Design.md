@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Duck, Goose, and Duckling Aircraft Design
 ## Abstract
 This project, conducted by Alexander Jarrett and fellow project members at Western Michigan University, focuses on the conceptual design of a versatile amphibian aircraft capable of passenger, cargo, and economic missions. Named "Duck" for passenger missions, "Goose" for cargo, and "Duckling" for economic missions, this aircraft design aims to achieve short takeoff and landing capabilities on various surfaces including land and water.

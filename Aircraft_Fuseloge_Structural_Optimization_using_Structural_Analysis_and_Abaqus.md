@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Aircraft Fuseloge Structural Optimization using Structural Analysis and Abaqus
 ## Abstract
 In this study, Abaqus was used to create a model of a fuselage and analyze its behavior under 
