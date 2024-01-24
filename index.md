@@ -11,6 +11,8 @@ Welcome to my academic portfolio! Here, you'll find a collection of projects I'v
 
 [Duck, Goose, and Duckling Aircraft Design](/Duck_Goose_and_Duckling_Aircraft_Design)
 
+[Owl-Inspired Flight: Exploring the Aerodynamic Efficiency of Stationary and Sinusoidally Pitching Airfoil Designs](/Owl-Inspired_Flight_Exploring)
+
 ## Owl-Inspired Flight: Exploring the Aerodynamic Efficiency of Stationary and Sinusoidally Pitching Airfoil Designs
 Unsteady aerodynamics is vital in understanding airfoils under varying conditions, especially in biological flight. This study focuses on the owl wing, known for silent flight and maneuverability, to explore its aerodynamics. We analyze unsteady lift using thin-airfoil theory, comparing stationary and sinusoidally pitching owl airfoils. Objectives include plotting the airfoil, calculating lift coefficients at various angles and time instances, and contrasting performance in stationary and dynamic conditions. This research provides insights into owl wing dynamics and contributes to bio-inspired aerospace design.
 
