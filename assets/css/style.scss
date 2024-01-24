@@ -7,26 +7,50 @@
 .project-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center; /* Center the tiles container */
+    gap: 20px; /* Adds space between tiles */
+    max-width: 1600px; /* Set this to match the width of your text container */
+    margin: 0 auto; /* This centers the container in the middle of the page */
 }
 
 .project {
-    margin: 10px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
+    margin: 10px 0; /* Top and bottom margin, no left and right margin to allow flexbox to handle spacing */
+    border-radius: 8px;
     overflow: hidden;
-    display: block;
-    width: 300px;
+    display: flex; /* Changed from block to flex to center the title vertically */
+    flex-direction: column; /* Stack the image and title vertically */
+    justify-content: flex-end; /* Align the title to the bottom */
+    width: 100%; /* Tile takes full width of the container */
+    height: auto; /* Height is set to auto to maintain aspect ratio */
+    position: relative;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.project img {
+.project-image {
     width: 100%;
-    height: auto;
-    display: block;
+    flex-grow: 1; /* Allows the image to fill the space */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .project-title {
-    padding: 10px;
+    color: white;
+    font-size: 20px;
     text-align: center;
-    background-color: #f8f8f8;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    padding: 10px 0; /* Adds padding above and below the text */
+    backdrop-filter: blur(5px);
+    transition: background-color 0.3s ease;
+}
+
+.project:hover {
+    transform: translateY(-5px); /* Slightly raises the tile on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Increases shadow on hover for a "lifting" effect */
+}
+
+.project:hover .project-title {
+    background-color: rgba(0, 0, 0, 0.8); /* Darkens the title background on hover */
 }
