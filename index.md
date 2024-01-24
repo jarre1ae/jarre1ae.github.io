@@ -2,10 +2,10 @@
 layout: default
 ---
 
-# Academic Portfolio
+# Academic Portfolio:
 Welcome to my academic portfolio! Here, you'll find a collection of projects I've worked on throughout my academic career. Each project is presented with a brief abstract, some illustrative images, and a link to download more detailed information or the project itself. These projects are ordered in no particular order. If you have questions regarding them, please reach out to me through my email.
 
-# Projects
+# Projects:
 <div class="project-container">
     <a href="/Aircraft_Fuseloge_Structural_Optimization_using_Structural_Analysis_and_Abaqus" class="project">
         <div class="project-image" style="background-image: url('/assets/images/project_1_image.PNG');">
