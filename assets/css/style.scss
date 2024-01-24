@@ -7,19 +7,21 @@
 .project-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 20px; /* Adds space between tiles */
 }
 
 .project {
     margin: 10px;
-    border: 1px solid #ddd;
-    border-radius: 4px;
+    border-radius: 8px; /* Rounded corners for a softer look */
     overflow: hidden;
     display: block;
     width: 300px;
-    height: 200px; /* Adjust based on your image aspect ratio */
+    height: 200px;
     position: relative;
-    text-decoration: none; /* Optional: removes underline from links */
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effects */
 }
 
 .project-image {
@@ -33,9 +35,21 @@
 }
 
 .project-title {
-    color: white; /* Choose color that contrasts well with your images */
-    font-size: 20px; /* Adjust font size as needed */
+    color: white;
+    font-size: 20px;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
+    background-color: rgba(0, 0, 0, 0.6); /* Darker background for better readability */
     width: 100%;
+    padding: 5px 0; /* Adds padding to the top and bottom of the title */
+    backdrop-filter: blur(5px); /* Optional: Adds blur effect to the background */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+.project:hover {
+    transform: translateY(-5px); /* Slightly raises the tile on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Increases shadow on hover for a "lifting" effect */
+}
+
+.project:hover .project-title {
+    background-color: rgba(0, 0, 0, 0.8); /* Darkens the title background on hover */
 }
