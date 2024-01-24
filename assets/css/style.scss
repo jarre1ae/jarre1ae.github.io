@@ -33,6 +33,9 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    padding-top: 56.25%; /* 16:9 aspect ratio, where 9 / 16 = 0.5625 */
+    height: 0; /* This is necessary when using padding to set the aspect ratio */
+    position: relative; /* Allows absolute positioning for the title inside */
 }
 
 .project-title {
@@ -44,6 +47,10 @@
     padding: 10px 0; /* Adds padding above and below the text */
     backdrop-filter: blur(5px);
     transition: background-color 0.3s ease;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .project:hover {
