@@ -46,4 +46,4 @@ This project, conducted by Alexander Jarrett and fellow project members at Weste
 *Figure: Top view of the aircraft.*
 
 ### Download Full Report
-For a comprehensive understanding of the project, including detailed technical specifications and design rationale, download the full report: [AE 4690 Group Design Project Report](/assets/docs/AE4690GroupDesignProject.pdf)
+For a comprehensive understanding of the project, including detailed technical specifications and design rationale, download the full report: [AE 4690 Design Project Report](/assets/docs/AE4690GroupDesignProject.pdf)
